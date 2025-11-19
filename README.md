@@ -3,7 +3,7 @@
 I am:
 - ✏️ A hobbyist programmer and maker
 - 👨‍💻 A former treasurer and programmer at digIT'23
-- 📖 Studying my 4th year at Chalmers University of Technology
+- 📖 Studying my 5th year at Chalmers University of Technology
 - 💬 Most easily reached on Discord: @goostaf
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
