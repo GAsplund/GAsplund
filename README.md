@@ -7,8 +7,8 @@ I am:
 - 💬 Most easily reached on Discord: @goostaf
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GAsplund&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Goosetaf&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GAsplund&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Goosetaf&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
 </a>
